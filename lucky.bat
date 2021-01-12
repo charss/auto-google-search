@@ -1,0 +1,1 @@
+@py.exe 'Y:\Programming\Python\Automating the Boring Stuff\lucky.py' %*
